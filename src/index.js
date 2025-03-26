@@ -127,9 +127,7 @@ export default {
 
 			const responseContent = {
 				schemaVersion: 1,
-				// subject: label,
 				label: label,
-				// status: message,
 				message: message,
 				color: 'blue',
 				style: 'flat-square',
